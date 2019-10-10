@@ -1,0 +1,104 @@
+/* Elements */
+
+body {
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+	line-height: 0;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.circle {
+	width: 3em;
+	height: 3em;
+	background-color: #e81a0b;
+	border-radius: 50%;
+	position: absolute;
+	left: 10%;
+	top: 10%;
+}
+.circle-2{
+	width: 3.5em;
+	height: 3.5em;
+	background-color: #d4562f;
+	left: 8em;
+	top: 8em;
+}
+.circle-3{
+	width: 4em;
+	height: 4em;
+	background-color: #ea9618;
+	left:13em;
+	top: 12em;
+}
+.circle-4{
+	width: 6em;
+	height: 6em;
+	background-color: #FFEB3B;
+	left:18em;
+	top: 17em;
+}
+.circle-5{
+	width: 8em;
+	height: 8em;
+	background-color: #7cbf2f;
+	left:28em;
+	top: 20em;
+	}
+	.circle-6{
+	width: 9em;
+	height: 9em;
+	background-color: #39e4bd;
+	left:40em;
+	top: 15em;
+}
+.circle-7{
+	width: 8em;
+	height: 8em;
+	background-color:#00BCD4;
+	left:40em;
+	top: 3em;
+	}
+	.circle-8{
+	width: 6em;
+	height: 6em;
+	background-color: #7989e0;
+	left:29em;
+	top: 1em;
+}
+.circle-9{
+	width: 4em;
+	height: 4em;
+	background-color:#62419e;
+	left:25em;
+	top: 9em;
+	}
+
+.circle-10{
+	width: 3.5em;
+	height: 3.5em;
+	background-color: #da2663;
+	left: 29em;
+	top: 14em;
+}
+.circle-11{
+	width: 2em;
+	height: 2em;
+	background-color: #ea1ebf;
+	left: 34em;
+	top: 10em;
+}
+.line {
+	height: 1px;
+	width: 100%;
+	background-color: steelblue;
+	transform: rotate(-45deg);
+}
+
+.line-2 {
+	transform: rotate(5deg);
+	position: absolute;
+	top: 5em;
+}
