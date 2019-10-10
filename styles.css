@@ -16,8 +16,8 @@ body {
 	background-color: #e81a0b;
 	border-radius: 50%;
 	position: absolute;
-	left: 10%;
-	top: 10%;
+	left: 3em;
+	top: 3em;
 }
 .circle-2{
 	width: 3.5em;
@@ -91,14 +91,16 @@ body {
 	top: 10em;
 }
 .line {
-	height: 1px;
-	width: 100%;
+	height: 4px;
+	width: 58em;
 	background-color: steelblue;
-	transform: rotate(-45deg);
+	transform: rotate(-56deg);
 }
 
 .line-2 {
+	height: 2px;
+	background-color:#25bf9c;
 	transform: rotate(5deg);
 	position: absolute;
-	top: 5em;
+	top: 30em;
 }
